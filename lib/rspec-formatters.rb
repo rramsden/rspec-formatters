@@ -1,0 +1,5 @@
+require 'rspec/core'
+require 'rspec/core/formatters/base_formatter'
+require 'rspec-formatters/version'
+require 'rspec-formatters/formatters'
+require 'rspec-formatters/rspec'
